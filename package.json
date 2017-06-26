@@ -1,0 +1,25 @@
+{
+  "name": "grovers-algorithm",
+  "version": "1.0.0",
+  "description": "An implementation of Grover's search algorithm",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blalasaadri/grovers-algorithm.git"
+  },
+  "keywords": [
+    "quantum",
+    "computer",
+    "grover",
+    "search"
+  ],
+  "author": "Alasdair Collinson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blalasaadri/grovers-algorithm/issues"
+  },
+  "homepage": "https://github.com/blalasaadri/grovers-algorithm"
+}
